@@ -1,6 +1,3 @@
-# dv-project-templates  
-Recipes for project documentation maintained by Data &amp; Visualization. 
-
 ## Goal  
 
 The goal of this repository is to collect great examples of project documentation. 
