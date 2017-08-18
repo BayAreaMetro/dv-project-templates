@@ -1,6 +1,6 @@
-## Goal  
+## Purpose   
 
-The goal of this repository is to collect great examples of project documentation. 
+A list of useful project templates.  
 
 ## Generic Project Documentation
 
