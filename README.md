@@ -10,7 +10,7 @@ A how-to guide to documenting MTC Data & Visualization projects on GitHub.
 
 ### Markdown
 
-[3-Minute Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+[3-Minute Markdown introduction](https://guides.github.com/features/mastering-markdown/)
 
 If you have any questions about how to use GitHub for D&V project please contact Tom Buckley.  
 
@@ -19,8 +19,6 @@ If you have any questions about how to use GitHub for D&V project please contact
 We've used the following structure for a [number of projects](#Examples). We are open to changing it and developing new templates.
 
 To get started with this template, you can copy and paste the text below into a markdown document. 
-
-The `##` tags below are rendered as headers in [Markdown](#Markdown)  
 
 ```
 ## Define the Problem Statement
@@ -35,6 +33,8 @@ The `##` tags below are rendered as headers in [Markdown](#Markdown)
 
 ## Results
 ```
+
+The `##` tags above are rendered as headers in [Markdown](#Markdown)  
 
 ## Examples
 
