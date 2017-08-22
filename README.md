@@ -1,20 +1,47 @@
 ## Purpose   
 
-A list of useful project templates.  
+A how-to guide to documenting MTC Data & Visualization projects on GitHub.  
 
-## Generic Project Documentation
+## Getting Started 
 
-We've used the following template for projects with a [cartographic](https://github.com/BayAreaMetro/motm) focus, a [statutory requirement analysis](https://github.com/BayAreaMetro/tpp_ceqa_map_for_pba_17), [transit analysis](https://github.com/BayAreaMetro/RegionalTransitDatabase/blob/master/docs/transit_priority_areas.md), [data processing and string matching](https://github.com/BayAreaMetro/vital-signs-traffic-data) and various [ad-hoc spatial analysis](https://github.com/BayAreaMetro/Adhoc-Spatial-Analysis).      
+### GitHub
 
-- [ANALYSIS-SIMPLE.md](https://raw.githubusercontent.com/BayAreaMetro/dv-project-templates/master/ANALYSIS-SIMPLE.md) contains a list of headers that can be copied and pasted into a new markdown document for a project. 
-- [ANALYSIS-DETAILED.md](https://github.com/BayAreaMetro/dv-project-templates/blob/master/ANALYSIS-DETAILED.md) describes how to use the headers above in more detail.    
+[10-minute introduction](https://guides.github.com/activities/hello-world/) to GitHub.  
 
-## Project Types 
+### Markdown
 
-### Web Development (static)
+[3-Minute Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 
-Need a good example here.  
+If you have any questions about how to use GitHub for D&V project please contact Tom Buckley.  
 
-### Web Development (MVC)
+### Documentation
 
-Need a good example here.   
+We've used the following structure for a [number of projects](#Examples). We are open to changing it and developing new templates.
+
+To get started with this template, you can copy and paste the text below into a markdown document. 
+
+The `##` tags below are rendered as headers in [Markdown](#Markdown)  
+
+```
+## Define the Problem Statement
+
+## Data Sources
+
+## Analysis Parameters
+
+## Methodology applied to solve problem
+
+## Expected Outcomes (if any)?
+
+## Results
+```
+
+## Examples
+
+Example applications of the methodology:
+
+- [cartographic](https://github.com/BayAreaMetro/motm) focus
+- a [statutory requirement analysis](https://github.com/BayAreaMetro/tpp_ceqa_map_for_pba_17) 
+- [transit analysis](https://github.com/BayAreaMetro/RegionalTransitDatabase/blob/master/docs/transit_priority_areas.md) 
+- [data processing and string matching](https://github.com/BayAreaMetro/vital-signs-traffic-data)
+- various [ad-hoc spatial analysis](https://github.com/BayAreaMetro/Adhoc-Spatial-Analysis).      
