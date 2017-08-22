@@ -12,7 +12,7 @@ A how-to guide to documenting MTC Data & Visualization projects on GitHub.
 
 [3-Minute Markdown introduction](https://guides.github.com/features/mastering-markdown/)
 
-If you have any questions about how to use GitHub for D&V project please contact Tom Buckley.  
+If you have any questions about how to use GitHub for D&V projects please contact Tom Buckley.  
 
 ### Documentation
 
