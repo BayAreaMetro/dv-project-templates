@@ -16,7 +16,7 @@ If you have any questions about how to use GitHub for D&V projects please contac
 
 ### Documentation
 
-We've used the following structure for a [number of projects](#Examples). We are open to changing it and developing new templates.
+We've used the following structure for a [number of projects](#examples). We are open to changing it and developing new templates.
 
 To get started with this template, you can copy and paste the text below into a markdown document. 
 
