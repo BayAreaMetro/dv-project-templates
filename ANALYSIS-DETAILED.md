@@ -4,13 +4,15 @@
 
 A problem statement is a brief description of the issues that need to be addressed by a problem solving team. It is used to center and focus the team at the onset of any spatial analysis efforts. It should keep the team on track during the effort, and will be used to validate that the effort delivered an outcome that solves the problem statement. In some ways the problem statement is more than just the ask. It should provide the context that the work assignment fits within, and identify any key stakeholders or major initiatives that relate to the solution.
 
-### Project Management (RECOMMENDED)
+## Project Management (RECOMMENDED)
 
 Add links to:
 - Activity, Project, or Task on Asana 
 - Box directory where any related work products are stored (if applicable) 
 - ArcGIS Online Working Group (if applicable) 
-- Any other location where important related work products are stored/saved  
+- Any other location where important related work products are stored/saved 
+
+## Table of Contents (if needed) 
 
 ## Data Sources
 
