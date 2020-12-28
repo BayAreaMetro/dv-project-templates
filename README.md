@@ -22,7 +22,7 @@ To get started with this template, you can copy and paste the text below into a 
 
 ```
 *Draft*
-## Define the Problem Statement
+# Title and Summary
 
 ### Project Management 
 
@@ -31,6 +31,8 @@ Add links to:
 - Box directory where any related work products are stored (if applicable) 
 - ArcGIS Online Working Group (if applicable) 
 - Any other location where important related work products are stored/saved 
+
+## Table of Contents (if needed) 
 
 ## Data Sources
 
